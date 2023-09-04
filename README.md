@@ -1,2 +1,1 @@
-# hello-wor-ld
-This is my first repository
+My name is Brandon. I am an aspiring web developer
